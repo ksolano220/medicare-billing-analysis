@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Data files (too large for git)
+data/inpatient_charges.csv
+data/medicare.db
+
+# OS
+.DS_Store
