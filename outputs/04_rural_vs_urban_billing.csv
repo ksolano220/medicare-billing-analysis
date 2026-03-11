@@ -1,0 +1,4 @@
+location_type,num_hospitals,total_discharges,avg_charges,avg_total_payment,avg_medicare_payment,markup_ratio,avg_discharges_per_record
+Rural,277,75649,49680.44,13999.97,12131.47,4.1,26.9
+Suburban,538,350898,49439.73,13099.0,11279.38,4.38,29.7
+Urban/Metro,2194,4556425,91465.54,19053.19,15834.91,5.78,34.9
