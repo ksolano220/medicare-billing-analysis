@@ -24,10 +24,10 @@ Six SQL queries explore different dimensions of the billing data:
 | `06_payment_gap_trends.sql` | DRGs with the widest gap between billed charges and Medicare payments |
 
 ### Key Findings
-- **Markup ratios vary 3x across states** — Nevada hospitals charge 10x what Medicare pays on average, while Maryland charges under 2x
-- **Cost outliers are concentrated** — Stanford Health Care bills up to 17x the national average for certain procedures
-- **Rural hospitals charge less** — 4.1x markup vs 5.8x for urban, but serve fewer patients per facility
-- **Septicemia drives the most volume** — 550k discharges nationally, with a $57k average gap between charges and payments
+- **Markup ratios vary 3x across states.** Nevada hospitals charge 10x what Medicare pays on average, while Maryland charges under 2x. State-level reimbursement policy, not facility economics, appears to be the strongest driver of variance.
+- **Cost outliers are concentrated.** Stanford Health Care bills up to 17x the national average for certain procedures. A small set of academic and specialty centers account for the bulk of extreme markups, which suggests negotiation leverage rather than cost recovery.
+- **Rural hospitals charge less.** 4.1x markup vs 5.8x for urban, but serve fewer patients per facility. Rural pricing constraints are real but do not offset the volume disadvantage for a sustainable model.
+- **Septicemia drives the most volume.** 550k discharges nationally, with a $57k average gap between charges and payments. Sepsis care is a structural loss leader for US hospitals.
 
 ### How to Run
 
