@@ -4,7 +4,7 @@
 Hospital billing in the US varies dramatically by provider, region, and procedure. This project analyzes CMS Medicare inpatient claims data to identify billing patterns, cost outliers, and geographic disparities in healthcare pricing.
 
 ### Data Source
-[CMS Medicare Inpatient Hospitals — by Provider and Service (FY2022)](https://data.cms.gov/provider-summary-by-type-of-service/medicare-inpatient-hospitals/medicare-inpatient-hospitals-by-provider-and-service)
+[CMS Medicare Inpatient Hospitals: by Provider and Service (FY2022)](https://data.cms.gov/provider-summary-by-type-of-service/medicare-inpatient-hospitals/medicare-inpatient-hospitals-by-provider-and-service)
 
 - 145,000+ records across 3,000+ hospitals and 533 diagnosis groups (DRGs)
 - Covers all 50 states + DC
